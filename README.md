@@ -10,3 +10,8 @@
 
 演示网站： http://www.ideaworks.club/william 
 
+## 在线简历生成器
+
+简历制作网站： http://www.ideaworks.club/resume 
+
+汉化的简历生成器，欢迎使用
